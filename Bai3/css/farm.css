@@ -1,0 +1,124 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+#k1{
+    text-align: center;
+    width: 100%;
+    height: 900px;
+    border: 1px solid mistyrose;
+    background: url(../image/background.jpg);
+} 
+header{
+    width: 100%;
+    height: 200px;
+}
+header img{
+float: left;
+padding-top: 10px;
+padding-left: 20px;
+width: 70%;
+}
+
+#links {
+float: left;
+width: 25%;
+height: 635px;
+border-right: 2px solid green;
+}
+#links #k2 {
+    width: 80%;
+    height: 200px;
+    list-style-type: none;
+    border-top: 4px solid gainsboro ;
+    border-left: 4px solid gainsboro;
+    border-bottom: 10px double grey;
+    border-right: 10px double gray;
+    background-color: white;
+    line-height: 35px;
+    text-align: left;
+    padding: 5px;
+}
+#links #k2 li a{
+color:  rgb(232, 113, 232);
+text-decoration: none;
+}
+
+#noidung{    
+    float:left;
+    width: 75%;
+    height: 550px;
+}
+#noidung h2{
+position: relative;
+right: -19px;
+float: left;
+width: 75%;
+background-color: green;
+text-align: left;
+color: white;       
+font-size: 30px;
+font-weight: bold;
+}
+
+#noidung p{
+color: gainsboro;
+text-align: left;
+margin-left: 10px;
+padding-left: 10px;
+padding-top: 20px;
+}
+#noidung #hi1{
+float: right;
+position: relative;
+width: 200px;
+height: 280px;
+margin: 20px;
+}
+#noidung h3{
+position: relative;
+right: -19px;
+float: left;
+width: 60%;
+height: 20px;
+background-color: green;
+text-align: left;
+color: white;       
+font-size: 20px;
+}
+#noidung #nd1 li{
+float: left;
+color: gainsboro;
+}
+#noidung h4{
+position: relative;
+right: -19px;
+float: left;
+width: 60%;
+height: 20px;
+background-color: green;
+text-align: left;
+color: white;       
+font-size: 20px;
+}
+#noidung #nd2 li{
+float: left;
+color: gainsboro;
+}
+footer{
+clear: both;
+position: relative;
+top: 5px;
+text-align: center;
+color: gainsboro;
+width: 99%;
+height: 10px;
+border-top: 2px solid green;
+}
+#kt1{
+width: 99%;
+height: 855px;
+border-bottom: 4px solid green;
+padding-left: 20px;
+}
